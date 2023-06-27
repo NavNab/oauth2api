@@ -1,4 +1,4 @@
-# Invoking External APIs from Business Central using OAuth2
+# Invoke External APIs from Business Central using OAuth2
 
 First of all, this article serves as a personal refresher, and I hope it turns out to be equally insightful for you too.
 
