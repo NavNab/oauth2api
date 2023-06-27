@@ -1,0 +1,15 @@
+# .gitignore
+*.zip
+*.app
+*.flf
+*.g.xlf
+*~*.xlsx
+.output
+.alpackages/
+.alcache/
+.snapshots/
+TestResults.xml
+rad.json
+launch.json
+*.log
+.altestrunner/

@@ -1,0 +1,22 @@
+{
+    "al.enableCodeActions": true,
+    "al.enableCodeAnalysis": true,
+    "al.ruleSetPath": "./.ruleset.json",
+    "al.codeAnalyzers": [
+      "${PerTenantExtensionCop}",
+      "${CodeCop}",
+      "${UICop}"
+    ],
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.PageCust.al",
+    "CRS.ObjectNamePrefix": "",
+    "CRS.ObjectNameSuffix": " NAvNab",
+    "CRS.OnSaveAlFileAction": "Rename",
+    "CRS.AlSubFolderName": "src",
+    "CRS.RemovePrefixFromFilename": true,
+    "CRS.RemoveSuffixFromFilename": true,
+    "CRS.RemoveUnderscoreFromFilename": true,
+    "CRS.DisableDefaultAlSnippets": true,
+    "CRS.SkipWarningMessageOnRenameAll": true
+  }

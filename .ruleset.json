@@ -1,0 +1,26 @@
+{
+    "name": "NavNab",
+    "description": "NavNab ruleset.",
+    "rules": [
+      {
+        "id": "AA0072",
+        "action": "None",
+        "justification": "None."
+      },
+      {
+        "id": "AA0139",
+        "action": "None",
+        "justification": "None."
+      },
+      {
+        "id": "AA0215",
+        "action": "None",
+        "justification": "None"
+      },
+      {
+        "id": "AA0470",
+        "action": "None",
+        "justification": "None"
+      }
+    ]
+  }
